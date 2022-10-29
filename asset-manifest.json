@@ -1,7 +1,7 @@
 {
-  "main.css": "/agora/static/css/main.97aef1fc.chunk.css",
-  "main.js": "/agora/static/js/main.4a6faa13.chunk.js",
-  "main.js.map": "/agora/static/js/main.4a6faa13.chunk.js.map",
+  "main.css": "/agora/static/css/main.a4739096.chunk.css",
+  "main.js": "/agora/static/js/main.4a235600.chunk.js",
+  "main.js.map": "/agora/static/js/main.4a235600.chunk.js.map",
   "static/js/1.69e0dab0.chunk.js": "/agora/static/js/1.69e0dab0.chunk.js",
   "static/js/1.69e0dab0.chunk.js.map": "/agora/static/js/1.69e0dab0.chunk.js.map",
   "static/js/2.04b2622b.chunk.js": "/agora/static/js/2.04b2622b.chunk.js",
@@ -11,8 +11,8 @@
   "static/media/agorabracket.PNG": "/agora/static/media/agorabracket.2bdf30a1.PNG",
   "static/media/agoralogotransparent.PNG": "/agora/static/media/agoralogotransparent.91ad6cfd.PNG",
   "static/media/logo.svg": "/agora/static/media/logo.06e73328.svg",
-  "static/css/main.97aef1fc.chunk.css.map": "/agora/static/css/main.97aef1fc.chunk.css.map",
+  "static/css/main.a4739096.chunk.css.map": "/agora/static/css/main.a4739096.chunk.css.map",
   "index.html": "/agora/index.html",
-  "precache-manifest.a50a50bef09586bc8480c0b625b3b05d.js": "/agora/precache-manifest.a50a50bef09586bc8480c0b625b3b05d.js",
+  "precache-manifest.abc0daae1070cb8bcc05474324dfd72b.js": "/agora/precache-manifest.abc0daae1070cb8bcc05474324dfd72b.js",
   "service-worker.js": "/agora/service-worker.js"
 }

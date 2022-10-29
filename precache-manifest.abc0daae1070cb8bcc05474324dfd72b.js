@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4a6faa1393aa835e0800",
-    "url": "/agora/static/css/main.97aef1fc.chunk.css"
+    "revision": "4a23560083b59b989be9",
+    "url": "/agora/static/css/main.a4739096.chunk.css"
   },
   {
-    "revision": "4a6faa1393aa835e0800",
-    "url": "/agora/static/js/main.4a6faa13.chunk.js"
+    "revision": "4a23560083b59b989be9",
+    "url": "/agora/static/js/main.4a235600.chunk.js"
   },
   {
     "revision": "69e0dab03ec9f6c99eb0",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/agora/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "808d458117c8642409c514ef6587eb4a",
+    "revision": "d5f9c303fcd3a5bb95f8cc4418248a74",
     "url": "/agora/index.html"
   }
 ];
