@@ -1,23 +1,35 @@
 import React, { Component }  from 'react';
 import logo from './logo.svg';
+import agoraLogo from './images/agoralogotransparent.PNG';
+import bracket from './images/agorabracket.PNG'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <img className="agoraLogo" src={agoraLogo} alt="transparent logo"/>
+      <br>
+      
+      
+      </br>
+      <img className="topBracket" src={bracket} alt="top"/>
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        January 12: we're going to the beach.<br></br>
+
+        later we're having more fun. <br></br>
+        Tap in.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/agora.digitalnetwork/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          instagram
         </a>
+        <img className="bottomBracket" src={bracket} alt="top"/>
       </header>
     </div>
   );
