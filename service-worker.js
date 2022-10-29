@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/agora/precache-manifest.4a1b01c6ff44d462464c498ad6643b62.js"
+  "/agora/precache-manifest.a50a50bef09586bc8480c0b625b3b05d.js"
 );
 
 workbox.clientsClaim();
