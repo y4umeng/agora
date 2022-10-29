@@ -30,6 +30,9 @@ function App() {
           instagram
         </a>
         <img className="bottomBracket" src={bracket} alt="top"/>
+        <p className="footer">
+          ⓒ Copyright Agora Digital Network 2022 <br></br>
+        </p>
       </header>
     </div>
   );

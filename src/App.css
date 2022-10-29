@@ -13,14 +13,25 @@
 }
 
 .topBracket {
+  max-width:90%;
   width: 1027px;
   height: 115px;
 }
 
 .bottomBracket {
+  max-width:90%;
   width: 1027px;
   height: 115px;
   transform: rotate(180deg);
+}
+
+.footer {
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+  color: rgb(114, 114, 114);
+  font-size: calc(3px + 2vmin);
 }
 
 @media (prefers-reduced-motion: no-preference) {
