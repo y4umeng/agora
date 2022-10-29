@@ -1,0 +1,16 @@
+{
+  "main.css": "/agora/static/css/main.06369355.chunk.css",
+  "main.js": "/agora/static/js/main.eb1d0c7b.chunk.js",
+  "main.js.map": "/agora/static/js/main.eb1d0c7b.chunk.js.map",
+  "static/js/1.95ea83b6.chunk.js": "/agora/static/js/1.95ea83b6.chunk.js",
+  "static/js/1.95ea83b6.chunk.js.map": "/agora/static/js/1.95ea83b6.chunk.js.map",
+  "static/js/2.fe9e49dc.chunk.js": "/agora/static/js/2.fe9e49dc.chunk.js",
+  "static/js/2.fe9e49dc.chunk.js.map": "/agora/static/js/2.fe9e49dc.chunk.js.map",
+  "runtime~main.js": "/agora/static/js/runtime~main.99dbc50e.js",
+  "runtime~main.js.map": "/agora/static/js/runtime~main.99dbc50e.js.map",
+  "static/media/logo.svg": "/agora/static/media/logo.06e73328.svg",
+  "static/css/main.06369355.chunk.css.map": "/agora/static/css/main.06369355.chunk.css.map",
+  "index.html": "/agora/index.html",
+  "precache-manifest.4a1b01c6ff44d462464c498ad6643b62.js": "/agora/precache-manifest.4a1b01c6ff44d462464c498ad6643b62.js",
+  "service-worker.js": "/agora/service-worker.js"
+}
